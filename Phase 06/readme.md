@@ -1,12 +1,2 @@
-Phase 06 [TeamPurple_ContactManagementSystem_Phase06.pdf]
-(https://github.com/user-attachments/files/17561881/TeamPurple_ContactManagementSystem_Phase06.pdf)
-
-Edit Contact Page View ![EditContactPageView](https://github.com/user-attachments/assets/de006d1c-03d9-4fa4-bb62-1c3ba56828b9)
-
-Admin Setting Page View ![AdminSettingPageView](https://github.com/user-attachments/assets/525624b2-7ba2-4bab-9908-4d459cc3dc50)
-
-Add Contact Page View ![AddContactPageView](https://github.com/user-attachments/assets/fc1c6a85-0ab9-4f93-b6b1-e49b3d34b253)
-
-Main Page View ![MainPageView](https://github.com/user-attachments/assets/807a6e0f-7ce8-47ed-8927-89839c777193)
-
-Login Page View ![LoginPageView](https://github.com/user-attachments/assets/b28ae2e1-90d2-43e6-ac4c-79465d6a93d7)
+# Project Phase 06
+[TeamPurple_ContactManagementSystem_Phase06.pdf](https://github.com/user-attachments/files/18100406/TeamPurple_ContactManagementSystem_Phase06.pdf)
